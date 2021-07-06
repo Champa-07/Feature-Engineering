@@ -1,2 +1,2 @@
 # Feature-Engineering
-All types of techniues used to handle the missing data or values
+All types of techniques used to handle the missing data or values
